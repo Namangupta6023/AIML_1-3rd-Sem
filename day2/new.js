@@ -60,6 +60,5 @@ console.log("percentage : " , percentage(total) + "%") ;
 
 console.log("===== Global Variable ====");
 
-function hello(){
+console.log("String Pitch---> ") ;
 
-}
